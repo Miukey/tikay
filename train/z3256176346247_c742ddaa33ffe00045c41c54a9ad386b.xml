@@ -1,0 +1,26 @@
+<annotation>
+	<folder>anh newtrain</folder>
+	<filename>z3256176346247_c742ddaa33ffe00045c41c54a9ad386b.jpg</filename>
+	<path>D:\anh newtrain\z3256176346247_c742ddaa33ffe00045c41c54a9ad386b.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1155</width>
+		<height>2560</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>495</xmin>
+			<ymin>895</ymin>
+			<xmax>689</xmax>
+			<ymax>1501</ymax>
+		</bndbox>
+	</object>
+</annotation>
