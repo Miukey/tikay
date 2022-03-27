@@ -1,0 +1,26 @@
+<annotation>
+	<folder>anh train</folder>
+	<filename>000000026405.jpg</filename>
+	<path>D:\nothing\anh train\000000026405.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>431</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>135</xmin>
+			<ymin>223</ymin>
+			<xmax>237</xmax>
+			<ymax>601</ymax>
+		</bndbox>
+	</object>
+</annotation>
