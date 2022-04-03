@@ -1,0 +1,26 @@
+<annotation>
+	<folder>New folder</folder>
+	<filename>000000089652.jpg</filename>
+	<path>D:\nothing\train2017\New folder\000000089652.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>357</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>60</xmin>
+			<ymin>92</ymin>
+			<xmax>307</xmax>
+			<ymax>375</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>PNGImages</folder>
+	<filename>FudanPed00030.jpg</filename>
+	<path>C:\tensorflow\workspace\training_demo\PNGImages\FudanPed00030.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>462</width>
+		<height>387</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>76</xmin>
+			<ymin>82</ymin>
+			<xmax>206</xmax>
+			<ymax>370</ymax>
+		</bndbox>
+	</object>
+</annotation>
