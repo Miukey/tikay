@@ -1,0 +1,38 @@
+<annotation>
+	<folder>chuong</folder>
+	<filename>1 (62).jpg</filename>
+	<path>C:\tensorflow\workspace\training_demo\chuong\1 (62).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1232</width>
+		<height>822</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>821</xmin>
+			<ymin>207</ymin>
+			<xmax>990</xmax>
+			<ymax>821</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>990</xmin>
+			<ymin>190</ymin>
+			<xmax>1209</xmax>
+			<ymax>822</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>some image</folder>
+	<filename>andrew-tanglao-3I2vzcmEpLU-unsplash.jpg</filename>
+	<path>C:\tensorflow\workspace\training_demo\some image\andrew-tanglao-3I2vzcmEpLU-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5525</width>
+		<height>2895</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3086</xmin>
+			<ymin>276</ymin>
+			<xmax>4323</xmax>
+			<ymax>2743</ymax>
+		</bndbox>
+	</object>
+</annotation>

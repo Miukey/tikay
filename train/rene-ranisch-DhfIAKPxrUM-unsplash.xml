@@ -1,0 +1,50 @@
+<annotation>
+	<folder>some image</folder>
+	<filename>rene-ranisch-DhfIAKPxrUM-unsplash.jpg</filename>
+	<path>C:\tensorflow\workspace\training_demo\some image\rene-ranisch-DhfIAKPxrUM-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>6000</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2058</xmin>
+			<ymin>1400</ymin>
+			<xmax>2819</xmax>
+			<ymax>3569</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3197</xmin>
+			<ymin>1535</ymin>
+			<xmax>3897</xmax>
+			<ymax>3165</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3879</xmin>
+			<ymin>1317</ymin>
+			<xmax>4305</xmax>
+			<ymax>3056</ymax>
+		</bndbox>
+	</object>
+</annotation>

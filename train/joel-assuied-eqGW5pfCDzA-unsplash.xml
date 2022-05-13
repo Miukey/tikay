@@ -1,0 +1,26 @@
+<annotation>
+	<folder>some image</folder>
+	<filename>joel-assuied-eqGW5pfCDzA-unsplash.jpg</filename>
+	<path>C:\tensorflow\workspace\training_demo\some image\joel-assuied-eqGW5pfCDzA-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2667</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>740</xmin>
+			<ymin>796</ymin>
+			<xmax>1549</xmax>
+			<ymax>3139</ymax>
+		</bndbox>
+	</object>
+</annotation>

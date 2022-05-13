@@ -1,0 +1,26 @@
+<annotation>
+	<folder>some image</folder>
+	<filename>photo-1546019170-f1f6e46039f5.jpg</filename>
+	<path>C:\tensorflow\workspace\training_demo\some image\photo-1546019170-f1f6e46039f5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>464</width>
+		<height>580</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>266</xmin>
+			<ymin>225</ymin>
+			<xmax>320</xmax>
+			<ymax>386</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Human3</folder>
+	<filename>20160702-112256-namthan-03_1462853248_520x610.jpg</filename>
+	<path>C:\Users\phanb\Downloads\Music\Human3\Human3\20160702-112256-namthan-03_1462853248_520x610.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>520</width>
+		<height>610</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>178</xmin>
+			<ymin>102</ymin>
+			<xmax>312</xmax>
+			<ymax>581</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>some image</folder>
+	<filename>mark-adriane-xQghSLXYD3M-unsplash.jpg</filename>
+	<path>C:\tensorflow\workspace\training_demo\some image\mark-adriane-xQghSLXYD3M-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3381</width>
+		<height>5167</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>804</xmin>
+			<ymin>844</ymin>
+			<xmax>2543</xmax>
+			<ymax>4228</ymax>
+		</bndbox>
+	</object>
+</annotation>

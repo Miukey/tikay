@@ -1,0 +1,38 @@
+<annotation>
+	<folder>some image</folder>
+	<filename>vlad-b-kHL1TCE1lfk-unsplash.jpg</filename>
+	<path>C:\tensorflow\workspace\training_demo\some image\vlad-b-kHL1TCE1lfk-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3672</width>
+		<height>5508</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1527</xmin>
+			<ymin>2541</ymin>
+			<xmax>2068</xmax>
+			<ymax>4177</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2062</xmin>
+			<ymin>2706</ymin>
+			<xmax>2262</xmax>
+			<ymax>3330</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>some image</folder>
+	<filename>jenny-hill-mQVWb7kUoOE-unsplash.jpg</filename>
+	<path>C:\tensorflow\workspace\training_demo\some image\jenny-hill-mQVWb7kUoOE-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4256</width>
+		<height>2832</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2499</xmin>
+			<ymin>1003</ymin>
+			<xmax>2880</xmax>
+			<ymax>2161</ymax>
+		</bndbox>
+	</object>
+</annotation>

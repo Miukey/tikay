@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Human3</folder>
+	<filename>young-attractive-man-standing-othe-lands-edge-looking-far-away-superwide-shot-sunny-summer-time-young-attractive-man-standing-123484597.jpg</filename>
+	<path>C:\Users\phanb\Downloads\Music\Human3\Human3\young-attractive-man-standing-othe-lands-edge-looking-far-away-superwide-shot-sunny-summer-time-young-attractive-man-standing-123484597.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>225</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>283</xmin>
+			<ymin>113</ymin>
+			<xmax>312</xmax>
+			<ymax>191</ymax>
+		</bndbox>
+	</object>
+</annotation>

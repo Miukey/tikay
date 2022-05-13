@@ -1,0 +1,26 @@
+<annotation>
+	<folder>some image</folder>
+	<filename>good-faces-IL1oeY0pN2k-unsplash.jpg</filename>
+	<path>C:\tensorflow\workspace\training_demo\some image\good-faces-IL1oeY0pN2k-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1856</width>
+		<height>2784</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>559</xmin>
+			<ymin>491</ymin>
+			<xmax>1285</xmax>
+			<ymax>2559</ymax>
+		</bndbox>
+	</object>
+</annotation>

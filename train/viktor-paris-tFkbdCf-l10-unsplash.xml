@@ -1,0 +1,26 @@
+<annotation>
+	<folder>some image</folder>
+	<filename>viktor-paris-tFkbdCf-l10-unsplash.jpg</filename>
+	<path>C:\tensorflow\workspace\training_demo\some image\viktor-paris-tFkbdCf-l10-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2967</width>
+		<height>4444</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1247</xmin>
+			<ymin>1502</ymin>
+			<xmax>1661</xmax>
+			<ymax>3183</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>some image</folder>
+	<filename>debby-hudson-sN2Y7PaEa0Q-unsplash.jpg</filename>
+	<path>C:\tensorflow\workspace\training_demo\some image\debby-hudson-sN2Y7PaEa0Q-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4000</width>
+		<height>2649</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1084</xmin>
+			<ymin>713</ymin>
+			<xmax>2606</xmax>
+			<ymax>2510</ymax>
+		</bndbox>
+	</object>
+</annotation>

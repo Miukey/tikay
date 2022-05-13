@@ -1,0 +1,26 @@
+<annotation>
+	<folder>some image</folder>
+	<filename>talin-unruh-hIEi0lEvsvU-unsplash.jpg</filename>
+	<path>C:\tensorflow\workspace\training_demo\some image\talin-unruh-hIEi0lEvsvU-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4994</width>
+		<height>7105</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1701</xmin>
+			<ymin>2152</ymin>
+			<xmax>3024</xmax>
+			<ymax>5706</ymax>
+		</bndbox>
+	</object>
+</annotation>

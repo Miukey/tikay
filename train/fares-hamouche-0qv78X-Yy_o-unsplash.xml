@@ -1,0 +1,26 @@
+<annotation>
+	<folder>some image</folder>
+	<filename>fares-hamouche-0qv78X-Yy_o-unsplash.jpg</filename>
+	<path>C:\tensorflow\workspace\training_demo\some image\fares-hamouche-0qv78X-Yy_o-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3264</width>
+		<height>4928</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>998</xmin>
+			<ymin>764</ymin>
+			<xmax>2061</xmax>
+			<ymax>4301</ymax>
+		</bndbox>
+	</object>
+</annotation>

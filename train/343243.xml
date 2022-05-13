@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Human3</folder>
+	<filename>343243.JPG</filename>
+	<path>C:\Users\phanb\Downloads\Music\Human3\Human3\343243.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>815</width>
+		<height>504</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>401</xmin>
+			<ymin>65</ymin>
+			<xmax>452</xmax>
+			<ymax>217</ymax>
+		</bndbox>
+	</object>
+</annotation>

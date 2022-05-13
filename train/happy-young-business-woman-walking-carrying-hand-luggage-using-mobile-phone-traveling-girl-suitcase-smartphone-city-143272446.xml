@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Human3</folder>
+	<filename>happy-young-business-woman-walking-carrying-hand-luggage-using-mobile-phone-traveling-girl-suitcase-smartphone-city-143272446.jpg</filename>
+	<path>C:\Users\phanb\Downloads\Music\Human3\Human3\happy-young-business-woman-walking-carrying-hand-luggage-using-mobile-phone-traveling-girl-suitcase-smartphone-city-143272446.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1066</width>
+		<height>1689</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>244</xmin>
+			<ymin>137</ymin>
+			<xmax>810</xmax>
+			<ymax>1496</ymax>
+		</bndbox>
+	</object>
+</annotation>

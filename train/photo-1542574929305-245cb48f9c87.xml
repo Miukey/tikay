@@ -1,0 +1,38 @@
+<annotation>
+	<folder>some image</folder>
+	<filename>photo-1542574929305-245cb48f9c87.jpg</filename>
+	<path>C:\tensorflow\workspace\training_demo\some image\photo-1542574929305-245cb48f9c87.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>750</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>213</xmin>
+			<ymin>366</ymin>
+			<xmax>258</xmax>
+			<ymax>479</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>275</xmin>
+			<ymin>357</ymin>
+			<xmax>322</xmax>
+			<ymax>478</ymax>
+		</bndbox>
+	</object>
+</annotation>

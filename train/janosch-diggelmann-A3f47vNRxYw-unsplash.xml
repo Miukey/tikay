@@ -1,0 +1,26 @@
+<annotation>
+	<folder>some image</folder>
+	<filename>janosch-diggelmann-A3f47vNRxYw-unsplash.jpg</filename>
+	<path>C:\tensorflow\workspace\training_demo\some image\janosch-diggelmann-A3f47vNRxYw-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4480</width>
+		<height>6720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1329</xmin>
+			<ymin>2803</ymin>
+			<xmax>2379</xmax>
+			<ymax>5710</ymax>
+		</bndbox>
+	</object>
+</annotation>
